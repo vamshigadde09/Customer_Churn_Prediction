@@ -61,4 +61,4 @@ To run the code and reproduce the analysis, follow these steps:
 1. Clone this repository to your local machine:
 
 ```shell
-git clone https://github.com/your_username/your_repository.git
+git clone [https://github.com/your_username/your_repository.git](https://github.com/vamshigadde09/Customer_Churn_Prediction.git)https://github.com/vamshigadde09/Customer_Churn_Prediction.git
