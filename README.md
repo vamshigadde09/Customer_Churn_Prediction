@@ -8,6 +8,9 @@ This repository contains a data analytics project that focuses on predicting cus
 
 The dataset used in this project is sourced from [source_name]. It contains information about customers, including their demographics, services subscribed to, contract details, and whether they churned or not.
 
+Dataset linl-Visit kaggle(
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
 ### Data Columns
 
 - `customerID`: Unique identifier for each customer.
